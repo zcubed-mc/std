@@ -1,6 +1,0 @@
-{
-	"values": [
-		"#minecraft:on_load",
-		"#minecraft:on_tick"
-	]
-}

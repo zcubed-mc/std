@@ -1,11 +1,10 @@
 {
 	"pack": {
 		"pack_format": 48,
-		"description": ""
+		"description": "Adds a garbage collected temporary scoreboard (zzz.tmp) & storage (minecraft:zzz tmp)"
 	},
 	"zcubed": {
-		"name": "Temporary variables",
-		"description": "Adds a garbage collected temporary scoreboard (zzz.tmp) & storage (minecraft:zzz tmp)",
-		"constrains": null
+		"type": "library",
+		"version": "v0.1.0"
 	}
 }

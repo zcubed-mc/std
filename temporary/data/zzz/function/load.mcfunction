@@ -1,2 +1,2 @@
-scoreboard objectives add zzz.tmp dummy
+scoreboard objectives add zzz dummy
 data modify storage minecraft:zzz tmp set value {}
